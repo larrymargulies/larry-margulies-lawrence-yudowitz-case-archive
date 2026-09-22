@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#121212"/>
+  <path d="M80 170H820M80 1030H820" stroke="#b99643" stroke-width="4"/>
+  <circle cx="450" cy="520" r="210" fill="none" stroke="#b99643" stroke-width="8"/>
+  <path d="M450 270L350 790M450 270L550 790M365 715H535" fill="none" stroke="#f5f1e8" stroke-width="22" stroke-linecap="round"/>
+  <path d="M450 505L405 645L450 705L495 645Z" fill="#7a2939" stroke="#b99643" stroke-width="8"/>
+  <text x="450" y="920" text-anchor="middle" fill="#f5f1e8" font-family="Georgia,serif" font-size="54">PUBLIC CASE ARCHIVE</text>
+</svg>
