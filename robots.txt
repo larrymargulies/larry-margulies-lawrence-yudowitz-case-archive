@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://larrymargulies.github.io/public-preservation-archive/sitemap.xml
