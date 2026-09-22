@@ -1,7 +1,7 @@
-# Public Preservation Archive
+# Larry Margulies aka Lawrence Yudowitz — Attempted Murder Case Archive
 
-Public GitHub Pages preservation index for the living Capstone Case archive concerning Larry Margulies, also known as Lawrence Yudowitz.
+Public GitHub Pages preservation index for 16 source records concerning Larry Margulies, also known as Lawrence Yudowitz and identified in this archive as the fourth son of Dr. Bernard and Evelyn Yudowitz. This is the living Capstone Case archive, not a course-material upload.
 
-Allegations are presented as allegations. Publication does not establish guilt or constitute a judicial finding.
+The materials concern allegations of attempted murder, threats, cross-jurisdictional events and institutional responses. Allegations are presented as allegations. Publication does not establish guilt, determine the truth of a claim or constitute a judicial finding. Each document retains its original evidentiary status.
 
-The site links to the verified Dropbox mirror and will contain the 16 source-record PDFs in the `files/` directory.
+The site contains all 16 source-record PDFs in the `files/` directory and links to the verified Dropbox mirror.
