@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://larrymargulies.github.io/larry-margulies-lawrence-yudowitz-attempted-murder-case/sitemap.xml
+Sitemap: https://larrymargulies.github.io/Larry-Margulies-Lawrence-Yudowitz-Attempted-Murder-Case-Archive/sitemap.xml
