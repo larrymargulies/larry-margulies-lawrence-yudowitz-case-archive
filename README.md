@@ -1,7 +1,23 @@
-# Larry Margulies aka Lawrence Yudowitz — Solicitation to Commit Murder Complaint Archive
+# Larry Margulies / Lawrence Yudowitz — Complaints, Allegations, Affidavits and Public Case Records Archive
 
-Public GitHub Pages preservation index for 16 source records concerning Larry Margulies, also known as Lawrence Yudowitz and identified in this archive as the fourth child of Dr. Bernard and Evelyn Yudowitz. This is the living Capstone Case archive, not a course-material upload.
+This is a neutral, evidence-first public repository of source records organized for review by citizens and, where relevant, professional investigators, attorneys, journalists, oversight bodies, and law-enforcement personnel.
 
-The materials concern a complaint charge of solicitation to commit murder, threats, cross-jurisdictional events and institutional responses. Allegations are presented as allegations. Publication does not establish guilt, determine the truth of a claim or constitute a judicial finding. Each document retains its original evidentiary status.
+The archive preserves **16 original files** in the `files/` directory:
 
-The site contains all 16 source-record PDFs in the `files/` directory and links to the verified Dropbox mirror.
+- Philippines — 4 records
+- Florida / Aventura — 7 records
+- State OIG — 5 records
+
+## Evidentiary status
+
+Complaints remain complaints. Allegations remain allegations unless independently established. Witness statements remain attributed statements, affidavits remain affidavits, and official records retain their actual provenance. Publication does not establish guilt, prove a claim, constitute a judicial finding, or represent endorsement by any agency.
+
+Original historical documents and filenames are retained unchanged for provenance. Documented source material, attributed statements, allegations, inferences, and unresolved or missing information must remain clearly distinguished.
+
+## Principal repository
+
+Zenodo DOI: https://doi.org/10.5281/zenodo.22884193
+
+## Public archive page
+
+https://larrymargulies.github.io/larry-margulies-lawrence-yudowitz-case-archive/
